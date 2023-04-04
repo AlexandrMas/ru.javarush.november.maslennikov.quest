@@ -1,0 +1,22 @@
+.greetings {
+    text-align: center;
+}
+
+.inner-page {
+margin-left: 700px;
+}
+
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:visited {
+    background-color: mediumblue;
+    color: white;
+}
+
+.butt{
+    margin: 20px;
+}
+
+.place{
+    margin-left: 100px;
+}
